@@ -5,7 +5,9 @@ A [Hubot](https://github.com/github/hubot) plugin for pulling in today's MLB gam
 ### Usage
 
     hubot baseball - Pulls today's games
+    hubot baseball standings - Pulls today's standings
     hubot baseball <team abbreviation> - Pulls today's game for a given team (ex. SF, NYY).
+    hubot baseball <team abbreviation> +/-<number> - Pulls future or past games
 
 ![hubot baseball](https://raw.githubusercontent.com/jonursenbach/hubot-baseball/master/usage.png)
 
